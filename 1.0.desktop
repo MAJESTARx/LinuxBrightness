@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=1.0
+Exec=sh -c "xrandr --output VGA1 --brightness 1.0"
+StartupNotify=true
+NoDisplay=false
+Terminal=false
+X-GNOME-Autostart-enabled=true
